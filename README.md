@@ -6,6 +6,6 @@
 
 # Luis's Cloud Journey
 
-Day 1 (5 Sep, 2022) Getting Started with AWS [Click Here to Read More](100-Days-Of-AWS-Cloud-Challenge/Day-1.md)
+Day 1 (5 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-1.md)
 
 
