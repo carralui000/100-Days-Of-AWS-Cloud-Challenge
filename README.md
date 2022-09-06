@@ -6,3 +6,5 @@
 
 # Luis's Cloud Journey
 
+Day 1 (5 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day 1.md)
+
