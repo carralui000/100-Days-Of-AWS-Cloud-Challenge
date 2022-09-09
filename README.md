@@ -6,6 +6,8 @@
 
 # Luis's Cloud Journey
 
-Day 1 (5 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-1.md)
+Day 1 (5 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-01.md)
 
-Day 2 (8 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-2.md)
+Day 2 (8 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-02.md)
+
+Day 3 (9 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-03.md)
