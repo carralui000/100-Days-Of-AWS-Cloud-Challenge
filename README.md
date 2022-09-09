@@ -8,4 +8,4 @@
 
 Day 1 (5 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-1.md)
 
-Day 1 (8 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-2.md)
+Day 2(8 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-2.md)
