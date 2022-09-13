@@ -60,15 +60,25 @@ An instance is a virtual server for running application on amazons EC2.
 # Amazon Demo Console (EC2):
 
 Step 1: Open AWS console
+
 Step 2: Search EC2 in services
+
 Step 3: Open EC2 service
+
 Step 4: Launch EC2 Instances
+
 Step 4.1: Choose one AMI
+
 Step 4.2: Choose an instance type
+
 Step 4.3: Configure Instance type
+
 Step 4.4: Add storage
+
 Step 4.5: Add tags
+
 Step 4.6: Configure Security group
+
 Step 4.7: Review Instance Launch
 
 Key pair dialog box will occur:
