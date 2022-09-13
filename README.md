@@ -16,3 +16,4 @@ Day 4 (10 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-04.
 
 Day 5 (11 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-05.md)
 
+Day 6 (12 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-06.md)
