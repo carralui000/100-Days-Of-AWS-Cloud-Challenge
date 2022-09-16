@@ -24,5 +24,5 @@ Day 8 (14 Sep, 2022) [AWS Elastic Beanstalk](/Day-08.md)
 
 Day 9 (15 Sep, 2022) [Amazon Elastic Container Registry](/Day-09.md)
 
-Day 10 (15 Sep, 2022) [Amazon Lightsail](/Day-10.md)
+Day 10 (16 Sep, 2022) [Amazon Lightsail](/Day-10.md)
 
