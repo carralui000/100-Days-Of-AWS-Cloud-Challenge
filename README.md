@@ -20,6 +20,6 @@ Day 6 (12 Sep, 2022) Amazon EC2 [Click Here to Read More](/Day-06.md)
 
 Day 7 (13 Sep, 2022) Amazon EC2 Auto Scaling [Click Here to Read More](/Day-07.md)
 
-Day 8 (14 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-08.md)
+Day 8 (14 Sep, 2022) AWS Elastic Beanstalk [Click Here to Read More](/Day-08.md)
 
 Day 9 (15 Sep, 2022) Getting Started with AWS [Click Here to Read More](/Day-09.md)
