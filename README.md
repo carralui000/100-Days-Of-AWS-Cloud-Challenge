@@ -28,4 +28,4 @@ Day 10 (16 Sep, 2022) [Amazon Lightsail](/Day-10.md)
 
 Day 11 (18 Sep, 2022) [Amazon Lambda](/Day-11.md)
 
-Day 12 (19 Sep, 2022) [Amazon Lambda](/Day-12.md)
+Day 12 (19 Sep, 2022) [Amazon Elastic Container Service](/Day-12.md)
