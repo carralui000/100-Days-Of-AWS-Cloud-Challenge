@@ -32,3 +32,7 @@ Day 12 (19 Sep, 2022) [Amazon Elastic Container Service](/Day-12.md)
 
 Day 13 (20 Sep, 2022) [Amazon Elastic Container Kubernetes Service](/Day-13.md)
 
+Day 14 (21 Sep, 2022) [Amazon Batch](/Day-14.md)
+
+
+
