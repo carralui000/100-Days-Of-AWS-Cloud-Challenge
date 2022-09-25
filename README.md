@@ -40,7 +40,7 @@ Day 16 (23 Sep, 2022) [Amazon Severless Application Repository](/Day-16.md)
 
 Day 17 (24 Sep, 2022) [Amazon Outposts](/Day-17.md)
 
-
+Day 18 (25 Sep, 2022) [](/Day-18.md)
 
 
 
