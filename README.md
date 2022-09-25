@@ -38,6 +38,12 @@ Day 15 (21 Sep, 2022) [Amazon Fargate](/Day-15.md)
 
 Day 16 (22 Sep, 2022) [Amazon Severless Application Repository](/Day-16.md)
 
+Day 17 (24 Sep, 2022) [Amazon Outposts](/Day-17.md)
+
+
+
+
+
 
 
 
