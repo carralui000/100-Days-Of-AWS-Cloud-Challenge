@@ -34,9 +34,9 @@ Day 13 (20 Sep, 2022) [Amazon Elastic Container Kubernetes Service](/Day-13.md)
 
 Day 14 (21 Sep, 2022) [Amazon Batch](/Day-14.md)
 
-Day 15 (21 Sep, 2022) [Amazon Fargate](/Day-15.md)
+Day 15 (22 Sep, 2022) [Amazon Fargate](/Day-15.md)
 
-Day 16 (22 Sep, 2022) [Amazon Severless Application Repository](/Day-16.md)
+Day 16 (23 Sep, 2022) [Amazon Severless Application Repository](/Day-16.md)
 
 Day 17 (24 Sep, 2022) [Amazon Outposts](/Day-17.md)
 
