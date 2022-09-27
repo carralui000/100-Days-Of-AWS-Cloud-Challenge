@@ -42,7 +42,7 @@ Day 17 (24 Sep, 2022) [Amazon Outposts](/Day-17.md)
 
 Day 18 (25 Sep, 2022) [VMware Cloud on AWS](/Day-18.md)
 
-
+Day 19 (26 Sep, 2022) [Amazon CloudSearch](/Day-19.md)
 
 
 
