@@ -46,5 +46,5 @@ Day 19 (26 Sep, 2022) [Amazon CloudSearch](/Day-19.md)
 
 Day 20 (30 Sep, 2022) [Amazon Kinesis Data Firehose features](/Day-20.md)
 
-
+Day 21 (01 Oct, 2022) [Amazon Kinesis Data Analytics](/Day-21.md)
 
