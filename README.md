@@ -50,6 +50,9 @@ Day 21 (01 Oct, 2022) [Amazon Kinesis Data Analytics](/Day-21.md)
 
 Day 22 (02 Oct, 2022) [Amazon Kinesis Data Streams](/Day-22.md)
 
+Day 23 (09 Oct, 2022) [Amazon Kinesis Video Streams](/Day-23.md)
+
+
 
 
 
