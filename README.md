@@ -52,6 +52,10 @@ Day 22 (02 Oct, 2022) [Amazon Kinesis Data Streams](/Day-22.md)
 
 Day 23 (09 Oct, 2022) [Amazon Kinesis Video Streams](/Day-23.md)
 
+Day 24 (09 Oct, 2022) [Amazon Redshift](/Day-24.md)
+
+
+
 
 
 
