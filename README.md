@@ -56,6 +56,10 @@ Day 24 (10 Oct, 2022) [Amazon Redshift](/Day-24.md)
 
 Day 25 (11 Oct, 2022) [QuickSight](/Day-25.md)
 
+Day 26 (12 Oct, 2022) [Amazon Data Pipeline](/Day-26.md)
+
+
+
 
 
 
