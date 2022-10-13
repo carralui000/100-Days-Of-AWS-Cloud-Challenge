@@ -58,6 +58,11 @@ Day 25 (11 Oct, 2022) [QuickSight](/Day-25.md)
 
 Day 26 (12 Oct, 2022) [Amazon Data Pipeline](/Day-26.md)
 
+Day 27 (13 Oct, 2022) [Amazon Lake Formation](/Day-27.md)
+
+
+
+
 
 
 
