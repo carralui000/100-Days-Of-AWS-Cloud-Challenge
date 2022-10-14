@@ -60,6 +60,8 @@ Day 26 (12 Oct, 2022) [Amazon Data Pipeline](/Day-26.md)
 
 Day 27 (13 Oct, 2022) [Amazon Lake Formation](/Day-27.md)
 
+Day 28 (14 Oct, 2022) [Amazon Managed Streaming for Apache Kafka (Amazon MSK)](/Day-28.md)
+
 
 
 
