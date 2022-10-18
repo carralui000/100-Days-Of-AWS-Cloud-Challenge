@@ -62,6 +62,8 @@ Day 27 (13 Oct, 2022) [Amazon Lake Formation](/Day-27.md)
 
 Day 28 (14 Oct, 2022) [Amazon Managed Streaming for Apache Kafka (Amazon MSK)](/Day-28.md)
 
+Day 29 (17 Oct, 2022) [Amazon S3](/Day-29.md)
+
 
 
 
